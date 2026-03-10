@@ -3,3 +3,4 @@ langchain-ollama
 langchain-community
 langchain-chroma
 pandas
+python-dotenv

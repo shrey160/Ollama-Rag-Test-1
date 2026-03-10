@@ -5,7 +5,7 @@ Install all the dependancies using "pip install -r requirements.txt" of  "uv add
 
 First install ollama and then run "ollama pull <model_name>" to install the models. You can check out the official ollama site for more details.
 
-You can first experiment with themodels in the tes.ipynb notebook where you can first tinker with the prompt and see the full result at the last.
+You can first experiment with the models in the test.ipynb notebook where you can first tinker with the prompt and see the full result at the last.
 models with 8b parameters like llama3.1:8b are recommended for a good result
 
 Smaller models like lfm2.5-thinking:1.2b also work but might require extensive prompting example: If asked about a particular style of pizza, it would only return with yes or no but with a particular instruction in the prompt like:

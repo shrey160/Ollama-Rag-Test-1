@@ -2,5 +2,11 @@ langchain
 langchain-ollama
 langchain-community
 langchain-chroma
+langchain_text_splitters
 pandas
+pypdf
 python-dotenv
+chromadb
+uuid
+typing
+scikit-learn
